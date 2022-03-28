@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BroadcastSample</string>
+    <string name="practicando_con_broadcastreceivers">Practicando con BroadcastReceivers</string>
 </resources>
